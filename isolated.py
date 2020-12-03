@@ -1,3 +1,5 @@
+import numba as nb
+
 @ nb.njit()
 def problem():
 
